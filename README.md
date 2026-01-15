@@ -16,14 +16,14 @@ This addon plugin helps to send your Fluent form submissions directly to your se
 
 == Description ==
 
-<strong>GSheetConnector for FluentForm</strong> is an addon plugin—a bridge between your [WordPress](https://wordpress.org/) based [Fluent Form](https://wordpress.org/plugins/fluentform/) forms and [Google Sheets](https://www.google.com/sheets/about/).
+<strong>GSheetConnector for FluentForm</strong> is an addon plugin a bridge between your [WordPress](https://wordpress.org/) based [Fluent Form](https://wordpress.org/plugins/fluentform/) forms and [Google Sheets](https://www.google.com/sheets/about/).
 When a visitor submits a Fluent Form on your website, their data is also sent to your connected Google Sheet.
 
 Each form submission is stored as a new row in the selected Google Sheet with proper field-to-column mapping, ensuring your data remains well-structured, searchable, and easy to manage. The integration supports common Fluent Forms fields such as text, email, dropdowns, checkboxes, radio buttons, and multi-select inputs. The plugin uses secure Google API authentication to ensure safe and reliable data transfer at all times. Once connected, you can manage, sort, and analyze your form submissions directly from Google Sheets without needing to log in to the WordPress dashboard. Whether you are collecting leads, managing inquiries, tracking registrations, or organizing form data for your team, GSheetConnector for FluentForm provides a fast, user-friendly, and dependable solution to connect Fluent Forms with Google Sheets no coding required.
 
 👉 [Get GSheetConnector for FluentForm PRO today](https://www.gsheetconnector.com/fluent-forms-google-sheet-connector-pro)
 
-🌐 [Homepage](https://www.gsheetconnector.com/) | 📘 [Documentation](https://www.gsheetconnector.com/docs) | 🛠️ [Support](https://www.gsheetconnector.com/support) | 🎯 [Demo](https://wpformsdemo.gsheetconnector.com/) | ⭐ [Premium Version](https://www.gsheetconnector.com/fluent-forms-google-sheet-connector-pro)
+🌐 [Homepage](https://www.gsheetconnector.com/) | 📘 [Documentation](https://www.gsheetconnector.com/docs) | 🛠️ [Support](https://www.gsheetconnector.com/support) | ⭐ [Premium Version](https://www.gsheetconnector.com/fluent-forms-google-sheet-connector-pro)
 
 = 🌟 WHY CHOOSE PRO =
 
@@ -56,11 +56,11 @@ Fluent Forms is a fast, flexible, and developer-friendly WordPress form builder 
 
 GSheetConnector for FluentForm simplifies how you manage this data by automatically syncing every Fluent Form submission to Google Sheets. Each entry is sent in real time and stored as a new row in your spreadsheet, keeping your data structured, searchable, and easy to analyze.
 
-With step-by-step setup for sheet names and column headers, the plugin eliminates manual errors and removes the need for exports or copy-paste. Submissions are pushed to Google Sheets instantly after form submission — no coding, no delays, and no third-party tools required.
+With step-by-step setup for sheet names and column headers, the plugin eliminates manual errors and removes the need for exports or copy-paste. Submissions are pushed to Google Sheets instantly after form submission no coding, no delays, and no third-party tools required.
 
 This makes it an ideal solution for teams and site owners who need fast, accurate, and reliable access to Fluent Forms data directly inside Google Sheets.
 
-= 🔥 GSheetConnector For FluentForm PRO — Built for Power Users =
+= 🔥 GSheetConnector For FluentForm PRO Built for Power Users =
 
 The PRO version unlocks advanced automation and enterprise-ready features designed for high-volume forms and complex use cases.
 
@@ -89,9 +89,6 @@ It is ideal for high-volume forms and teams that require accurate, well-structur
 Upgrade to **GSheetConnector for Fluent Forms PRO** to unlock powerful automation features, enhanced customization options, and extended functionality.
 
 = 🛠️ Save Fluent Forms Entries to Google Sheets 📊 Live Demo, Docs & Resources =
-
-🧪 Save Fluent Forms Entries to Google Sheets – Live Demo  
-🔗 [Demo URL: Fluent Forms Demo](https://wpformsdemo.gsheetconnector.com/)
 
 📄 Sample Google Sheet  
 🔗 [Google Sheet URL to Check Submitted Data](https://docs.google.com/spreadsheets/d/1ooBdX0cgtk155ww9MmdMTw8kDavIy5J1m76VwSrcTSs/edit#gid=1289172471)
@@ -228,7 +225,7 @@ With a growing collection of purpose-built plugins, GSheetConnector enables:
 - Spreadsheet-based content and data management
 - Smooth integration with popular WordPress plugins
 
-Whether you're running an eCommerce store, collecting leads, or managing blog content, GSheetConnector enables <strong>automated data synchronization</strong>—no code required.
+Whether you're running an eCommerce store, collecting leads, or managing blog content, GSheetConnector enables <strong>automated data synchronization</strong> no code required.
 
 It simplifies daily operations by keeping WordPress data and Google Sheets perfectly in sync.
 
